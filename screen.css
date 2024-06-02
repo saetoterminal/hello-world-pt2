@@ -5,6 +5,8 @@ a.active {
 body {
     background-image: linear-gradient(rgba(95, 0, 90, 0.493), rgb(19, 0, 16));
 font-family: Arial, Helvetica, sans-serif;
+border-top: 15px solid #A9A9A9 ;
+margin: 0;
 }
 
 img {
